@@ -19,5 +19,5 @@ This is a basic Flask web application that implements CRUD (Create, Read, Update
 - SQLite (or other database of your choice)
 
 ### Acknowledgments
-Flask documentation: https://flask.palletsprojects.com/
-SQLAlchemy documentation: https://docs.sqlalchemy.org/
+- Flask documentation: https://flask.palletsprojects.com/
+- SQLAlchemy documentation: https://docs.sqlalchemy.org/
