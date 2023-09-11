@@ -5,7 +5,7 @@ This is a basic Flask web application that implements CRUD (Create, Read, Update
 - Create: Add new tasks to the list.
 - Read: View a list of all tasks.
 - Update: Edit existing task.
-- Delete: Remove tasks from the database.
+- Delete: Removes a task.
 
 ### Files and Directory Structure
 - app.py: This is the main application file that defines routes and implements CRUD operations.
